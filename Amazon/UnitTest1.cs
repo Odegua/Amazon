@@ -9,6 +9,6 @@ namespace Amazon
         [TestMethod]
         public void TestMethod1()
         {
-        }
+            var Odegua = "50";
     }
 }
